@@ -5,6 +5,7 @@ A client of cider built with the Electron
 ```
 git clone https://github.com/yxwzaxns/cider-client.git
 cd cider-client
-git submodule update
+npm install
+npm start
 
 ```
