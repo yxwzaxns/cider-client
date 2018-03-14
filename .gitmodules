@@ -1,0 +1,3 @@
+[submodule "cider-ui"]
+	path = cider-ui
+	url = git@github.com:yxwzaxns/cider-ui.git

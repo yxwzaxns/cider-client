@@ -1,0 +1,27 @@
+{
+  "name": "cider-client",
+  "version": "1.0.0",
+  "description": "A client of cider built with the Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/electron/cli.js index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxwzaxns/cider-client.git"
+  },
+  "keywords": [
+    "client",
+    "cider"
+  ],
+  "author": "aong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yxwzaxns/cider-client/issues"
+  },
+  "homepage": "https://github.com/yxwzaxns/cider-client#readme",
+  "devDependencies": {
+    "electron": "^1.8.3"
+  }
+}
